@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>TSView.qml</file>
+        <file>pics/Custom-Icon-Design-Pretty-Office-8-Line-chart.ico</file>
+    </qresource>
+</RCC>
